@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     
     s.name           = "SharedFreamwork"
-    s.version        = "1.0.0"
+    s.version        = "1.0.3"
     s.summary        = "This is a test freamwork."
     s.description    = "This is a test freamwork. It was made for learning purpose."
     s.homepage       = "https://github.com/remelephant/SharedFreamwork"

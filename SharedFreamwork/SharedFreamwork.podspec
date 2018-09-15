@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
     s.license        = "MIT"
     s.swift_version  = "4.2"
     s.platform       = :ios, "12.0"
-    s.source         = { :git => "https://github.com/remelephant/SharedFreamwork.git", :tag => "1.0.1" }
+    s.source         = { :git => "https://github.com/remelephant/SharedFreamwork.git", :tag => "1.0.3" }
     s.source_files   = "SharedFreamwork/**/*"
 end
